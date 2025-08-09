@@ -1,4 +1,6 @@
 Banking System – Core Java Project
+
+
 This repository contains a console-based banking application built entirely using Core Java. The project simulates real-world banking operations such as creating accounts, managing deposits and withdrawals, checking balances, and recording transaction history. It is designed for learning and practicing Object-Oriented Programming (OOP) concepts in Java along with exception handling and data management.
 
 Key Features
